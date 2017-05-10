@@ -1,0 +1,27 @@
+{
+    "title": "Bunny Videos",
+    "description": "abc",
+    "referenceId": null,
+    "date_created": "1447704966",
+    "date_modified": "1480471734",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "seo_description": null,
+    "id": "7645129",
+    "loginId": "1758403",
+    "entityType": "3",
+    "titleTextEncoded": "Bunny-Videos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "809986796-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 1,
+        "autoNext": 1,
+        "canvasCropped": "809986796-0-451140596.jpg"
+    },
+    "transcripts": null
+}
