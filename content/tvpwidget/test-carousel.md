@@ -6,7 +6,7 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": true,
+    "preload": false,
     "type": "carousel",
     "title": "test carousel",
     "name": "test-carousel",
