@@ -6,6 +6,7 @@
         "maxAds": "50",
         "adInterval": "2"
     },
+    "preload": true,
     "type": "solo",
     "title": "solo ima",
     "name": "solo-ima",
