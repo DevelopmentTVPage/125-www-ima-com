@@ -10,5 +10,6 @@
     "title": "solo ima",
     "name": "solo-ima",
     "channelId": "7645129",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
